@@ -1,4 +1,3 @@
-
 import React, { useState } from "react";
 import PlayerItem from "../UI/PlayerItem";
 import Pagination from "./Pagination";
@@ -17,9 +16,9 @@ const PlayerList = ({ players, itemsPerPage }) => {
       <table className="w-full">
         <thead>
           <tr className="bg-gray-200 text-center">
-            <th className="text-left p-2">Name</th>
-            <th className="text-left p-2">Country</th>
-            <th className="text-left p-2">Batting Average</th>
+            <th className="text-center p-2">Name</th>
+            <th className="text-center p-2">Country</th>
+            <th className="text-center p-2">Batting Average</th>
           </tr>
         </thead>
         <tbody>
