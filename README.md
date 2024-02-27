@@ -13,7 +13,7 @@ functionalities.
 Clone the project
 
 ```bash
-  [git clone https://github.com/Sushankznation/react-project](https://github.com/Sushankznation/assignment-new)
+  git clone https://github.com/Sushankznation/assignment-new
 ```
 
 Go to the project directory
