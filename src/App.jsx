@@ -42,7 +42,7 @@ const App = () => {
           <SortButton
             label={`Sort by Batting Average (${sortOrder})`}
             onClick={sortPlayers}
-            className="mb-4 sm:mb-0"
+            className="mb-4 sm:mb-0 mt-2"
           />
         </div>
         <PlayerList players={filteredPlayers} itemsPerPage={itemsPerPage} />
