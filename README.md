@@ -7,7 +7,10 @@ functionalities.
 ## Authors
 
 - [@Sushant Bherwal](https://www.github.com/sushankznation)
-
+----
+### video 
+https://www.loom.com/share/4e9b73e76b5346f48ddcae9b904dd19c?sid=02aae0a4-d7c9-4ada-a31c-260cde11986d
+----
 ## Run Locally
 
 Clone the project
